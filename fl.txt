@@ -1,0 +1,2 @@
+PROMPT: What did he say when he went to the river?
+OUTPUT: THEY
