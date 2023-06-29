@@ -1,0 +1,329 @@
+PROMPT: What did he say when he went to the river?
+OUTPUT: THEY
+
+PROMPT: What did she do when she arrived at the park?
+OUTPUT: PLAYED
+
+PROMPT: How did they react when they saw the sunset?
+OUTPUT: GASPED
+
+PROMPT: Where did he go after leaving the office?
+OUTPUT: HOME
+
+PROMPT: What did she order when she went to the restaurant?
+OUTPUT: PASTA
+
+PROMPT: How did they feel when they received the news?
+OUTPUT: EXCITED
+
+PROMPT: What did he say when he tasted the cake?
+OUTPUT: DELICIOUS
+
+PROMPT: What did she do when she saw the spider?
+OUTPUT: SCREAMED
+
+PROMPT: Where did they go on their vacation?
+OUTPUT: BEACH
+
+PROMPT: How did he react when he won the competition?
+OUTPUT: JUMPED
+
+PROMPT: What did she say when she saw the movie ending?
+OUTPUT: UNEXPECTED
+
+PROMPT: How did she react when she saw a rainbow?
+OUTPUT: SMILED
+
+PROMPT: Where did they go for their anniversary?
+OUTPUT: PARIS
+
+PROMPT: What did he do when he found a lost puppy?
+OUTPUT: ADOPTED
+
+PROMPT: How did she feel when she received a promotion?
+OUTPUT: ECSTATIC
+
+PROMPT: What did they say when they tasted the spicy chili?
+OUTPUT: HOT
+
+PROMPT: Where did he go on his business trip?
+OUTPUT: NEW YORK
+
+PROMPT: How did she react when she saw her favorite celebrity?
+OUTPUT: SCREAMED
+
+PROMPT: What did they do when they reached the mountain peak?
+OUTPUT: CELEBRATED
+
+PROMPT: Where did he find the hidden treasure?
+OUTPUT: CAVE
+
+PROMPT: How did she feel when she completed her first marathon?
+OUTPUT: ACCOMPLISHED
+
+PROMPT: What did he say when he saw a shooting star?
+OUTPUT: MAKE A WISH
+
+PROMPT: What did she do when she heard her favorite song?
+OUTPUT: DANCED
+
+PROMPT: How did they react when they won the lottery?
+OUTPUT: SHOCKED
+
+PROMPT: Where did he go for his summer vacation?
+OUTPUT: HAWAII
+
+PROMPT: What did she say when she saw her childhood friend after years?
+OUTPUT: LONG TIME NO SEE
+
+PROMPT: How did they feel when they received a handwritten letter?
+OUTPUT: TOUCHED
+
+PROMPT: What did he do when he spotted a rare bird?
+OUTPUT: PHOTOGRAPHED
+
+PROMPT: Where did she go for a weekend getaway?
+OUTPUT: CABIN
+
+PROMPT: How did they react when they met their role model?
+OUTPUT: STARSTRUCK
+
+PROMPT: What did he say when he tried a new cuisine?
+OUTPUT: DELICIOUS
+
+PROMPT: What did she do when she encountered a difficult puzzle?
+OUTPUT: SOLVED
+
+PROMPT: How did they feel when they witnessed a meteor shower?
+OUTPUT: ASTONISHED
+
+PROMPT: Where did he go for a hiking adventure?
+OUTPUT: MOUNTAINS
+
+PROMPT: What did she say when she saw a breathtaking sunset?
+OUTPUT: BEAUTIFUL
+
+PROMPT: How did they react when they found a four-leaf clover?
+OUTPUT: LUCKY
+
+PROMPT: What did he do when he heard his favorite band live?
+OUTPUT: ROCKED OUT
+
+PROMPT: Where did she go to learn salsa dancing?
+OUTPUT: DANCE STUDIO
+
+PROMPT: How did they feel when they completed a challenging puzzle?
+OUTPUT: ACCOMPLISHED
+
+PROMPT: What did he say when he met a famous author?
+OUTPUT: INSPIRED
+
+PROMPT: What did she do when she encountered a wild deer?
+OUTPUT: ADMIRED
+
+PROMPT: How did they react when they witnessed a double rainbow?
+OUTPUT: AMAZED
+
+PROMPT: Where did he go for a photography expedition?
+OUTPUT: NATIONAL PARK
+
+PROMPT: What did she say when she tasted a spicy curry?
+OUTPUT: FIERY
+
+PROMPT: How did they feel when they received surprise gifts?
+OUTPUT: GRATEFUL
+
+PROMPT: What did he do when he found an old family heirloom?
+OUTPUT: TREASURED
+
+PROMPT: Where did she go for a scuba diving adventure?
+OUTPUT: CORAL REEF
+
+PROMPT: How did they react when they saw a shooting star?
+OUTPUT: MADE A WISH
+
+PROMPT: What did he say when he watched a thrilling movie?
+OUTPUT: INTENSE
+
+PROMPT: What did she do when she heard her favorite band live?
+OUTPUT: SANG ALONG
+
+PROMPT: How did they feel when they saw a baby panda at the zoo?
+OUTPUT: DELIGHTED
+
+PROMPT: What did he say when he tasted a mouth-watering dessert?
+OUTPUT: DELECTABLE
+
+PROMPT: Where did she go for a skiing vacation?
+OUTPUT: ALPS
+
+PROMPT: What did they do when they spotted a shooting star?
+OUTPUT: MADE A WISH
+
+PROMPT: How did he react when he saw a rare species of butterfly?
+OUTPUT: FASCINATED
+
+PROMPT: What did she say when she saw a stunning artwork?
+OUTPUT: WOW
+
+PROMPT: Where did they go for a weekend road trip?
+OUTPUT: COAST
+
+PROMPT: How did he feel when he completed a challenging crossword puzzle?
+OUTPUT: ACCOMPLISHED
+
+PROMPT: What did she do when she found a hidden treasure map?
+OUTPUT: EXPLORED
+
+PROMPT: What did they say when they tasted exotic fruits for the first time?
+OUTPUT: UNEXPECTED
+
+PROMPT: How did he react when he received a surprise party?
+OUTPUT: OVERWHELMED
+
+PROMPT: Where did she go for a painting workshop?
+OUTPUT: ART STUDIO
+
+PROMPT: What did they do when they heard good news?
+OUTPUT: CELEBRATED
+
+PROMPT: How did he feel when he witnessed a meteor shower?
+OUTPUT: ASTONISHED
+
+PROMPT: What did she say when she saw a stunning sunset by the beach?
+OUTPUT: BREATHTAKING
+
+PROMPT: Where did they go for a hiking expedition?
+OUTPUT: WILDERNESS
+
+PROMPT: What did he do when he spotted a rare flower in the garden?
+OUTPUT: PHOTOGRAPHED
+
+PROMPT: How did she react when she won a scholarship?
+OUTPUT: ECSTATIC
+
+PROMPT: What did they say when they tasted a spicy dish?
+OUTPUT: HOT
+
+PROMPT: Where did he go for a culinary tour?
+OUTPUT: ITALY
+
+PROMPT: How did she feel when she met her favorite author?
+OUTPUT: INSPIRED
+
+PROMPT: What did they do when they found a lost kitten?
+OUTPUT: ADOPTED
+
+PROMPT: What did he say when he watched an exciting sports match?
+OUTPUT: THRILLING
+
+PROMPT: How did she react when she saw her favorite band live?
+OUTPUT: DANCED
+
+PROMPT: Where did they go for their honeymoon?
+OUTPUT: MALDIVES
+
+PROMPT: What did he do when he heard good news?
+OUTPUT: SMILED
+
+PROMPT: How did she feel when she completed a challenging workout?
+OUTPUT: ACCOMPLISHED
+
+PROMPT: What did they say when they tasted a mouth-watering barbecue?
+OUTPUT: DELICIOUS
+
+PROMPT: Where did he go for a photography workshop?
+OUTPUT: NATIONAL PARK
+
+PROMPT: What did she do when she encountered a beautiful butterfly?
+OUTPUT: ADMIRED
+
+PROMPT: How did they react when they saw a stunning waterfall?
+OUTPUT: MESMERIZED
+
+PROMPT: What did he say when he tasted a unique ice cream flavor?
+OUTPUT: UNEXPECTED
+
+PROMPT: What did she do when she heard her favorite song on the radio?
+OUTPUT: SANG ALONG
+
+PROMPT: How did they feel when they received a surprise visit from loved ones?
+OUTPUT: JOYFUL
+
+PROMPT: Where did he go for a cultural festival?
+OUTPUT: JAPAN
+
+PROMPT: What did she say when she saw a mesmerizing fireworks display?
+OUTPUT: MAGICAL
+
+PROMPT: What did they do when they spotted a shooting star?
+OUTPUT: MADE A WISH
+
+PROMPT: How did he react when he found a rare comic book?
+OUTPUT: EXCITED
+
+PROMPT: Where did she go for a yoga retreat?
+OUTPUT: ASHRAM
+
+PROMPT: What did they say when they tasted a spicy Mexican dish?
+OUTPUT: FIERY
+
+PROMPT: How did he feel when he completed a challenging jigsaw puzzle?
+OUTPUT: SATISFIED
+
+PROMPT: What did she do when she found a hidden treasure chest?
+OUTPUT: UNCOVERED
+
+PROMPT: Where did they go for a weekend beach getaway?
+OUTPUT: CARIBBEAN
+
+PROMPT: What did he say when he tasted a mouth-watering pizza?
+OUTPUT: DELICIOUS
+
+PROMPT: How did she react when she won a contest?
+OUTPUT: THRILLED
+
+PROMPT: What did they do when they heard their favorite band's new song?
+OUTPUT: DANCED
+
+PROMPT: Where did he go for a hiking adventure with friends?
+OUTPUT: MOUNTAIN RANGE
+
+PROMPT: What did she say when she saw a breathtaking sunrise?
+OUTPUT: MAGNIFICENT
+
+PROMPT: How did they feel when they witnessed a rare celestial event?
+OUTPUT: ASTONISHED
+
+PROMPT: What did he do when he spotted a beautiful bird in the forest?
+OUTPUT: OBSERVED
+
+PROMPT: Where did she go for a photography expedition?
+OUTPUT: AFRICAN SAFARI
+
+PROMPT: What did they say when they tasted a spicy Indian curry?
+OUTPUT: HOT
+
+PROMPT: How did he react when he received unexpected good news?
+OUTPUT: ELATED
+
+PROMPT: What did she do when she heard her favorite band's new album?
+OUTPUT: LISTENED ON REPEAT
+
+PROMPT: Where did they go for a romantic getaway?
+OUTPUT: PARADISE ISLAND
+
+PROMPT: What did he say when he saw a mesmerizing sunset?
+OUTPUT: STUNNING
+
+PROMPT: How did she feel when she completed a challenging painting?
+OUTPUT: ACCOMPLISHED
+
+PROMPT: What did they do when they found a hidden treasure map?
+OUTPUT: EMBARKED ON A QUEST
+
+PROMPT: Where did he go for a thrilling adventure sport?
+OUTPUT: SKYDIVING
+
+PROMPT: What did she say when she tasted a delicious homemade dessert?
+OUTPUT: YUMMY
